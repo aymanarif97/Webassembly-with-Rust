@@ -68,6 +68,14 @@ Building a Live Chat Application
 
 ## A1. WebAssembly and Serverless
 ### Serverless 101
+- It strips away boiler-plate code and just deploys Business Logic which is either consumed by:
+  1. RPC
+  2. REST
+  3. Some pub/sub mechanism
+
+- Can be thought of as purely reactive; stripped away from onion of bolier-plate code which:
+  1. Awaits an event → Performs a task → Gets out of way by deleting its deployment unit itself.
+  
 ### Intersection of WebAssembly and Serverless
 ### WebAssembly in the Cloud
 ### Serverless WebAssembly in the Wild
