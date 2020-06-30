@@ -1,6 +1,5 @@
-# Webassembly-with-Rust
-Programming Webassembly with Rust Book Notes
-
+# Programming Webassembly with Rust Book Notes
+1. [Book Link](https://learning.oreilly.com/library/view/programming-webassembly-with/9781680506846/)
 
 
 # Part I. Building a Foundation
