@@ -1,4 +1,6 @@
 # Programming Webassembly with Rust Book Notes
+
+ [![GitHub stars](https://img.shields.io/github/stars/aymanarif97/Webassembly-with-Rust.svg?style=social&label=Star&maxAge=2592000)](https://github.com/aymanarif97/Webassembly-with-Rust)
 1. [Book Link](https://learning.oreilly.com/library/view/programming-webassembly-with/9781680506846/)
 
 
@@ -83,4 +85,9 @@ Building a Live Chat Application
 ### General Security Concerns
 ### Browser-Based Attack Vectors
 ### Signing and Encrypting WebAssembly Modules
+
+
+# Awesome List
+
+ [![GitHub stars](https://img.shields.io/github/stars/aymanarif97/Webassembly-with-Rust.svg?style=social&label=Star&maxAge=2592000)](https://github.com/aymanarif97/Webassembly-with-Rust)
 
